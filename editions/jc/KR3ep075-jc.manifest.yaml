@@ -1,0 +1,498 @@
+canonical_identifier: bkk:krp/KR3ep075/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ep075/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 松心醫案筆記
+  identifiers:
+    krp: KR3ep075
+  tags:
+    kr-categories: KR3ep
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ep075.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ep075_000-jc.yaml, hash: 'sha256:98864f312768ac62634517dc8773c26377bc4268eda335b6d94e6c28abb7169c'}
+  - {seq: 1, filename: KR3ep075_001-jc.yaml, hash: 'sha256:ead19e87f2c16a6a6a1d7be92d39054fae85f53450854ed5540d0b1a52786cf7'}
+  - {seq: 3, filename: KR3ep075_003-jc.yaml, hash: 'sha256:68c9015b7c7adb0efdb356ab4619fc4c48b0c3ab3cced620c764df4313c74241'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ep075_000-jc.markers.yaml, hash: 'sha256:56c6363fda7bc692a9991b2582d30374c6b007b0834bfdf6ff3753a795798505'}
+  - {seq: 1, role: markers, filename: assets/KR3ep075_001-jc.markers.yaml, hash: 'sha256:d3f83b4d438a904e6c0c111e70dab13bc11d4a1e8bcdc41690768d2bac1473cd'}
+  - {seq: 3, role: markers, filename: assets/KR3ep075_003-jc.markers.yaml, hash: 'sha256:6cf4b3198d061e25fca2fb0d24cc2ad1495974d259beaad8ed2c8eaadcf9817b'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ep075_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 379
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ep075_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 7523
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ep075_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 766
+  label: 半術丸等方治驗案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep075_jc_001-d3d3
+    span:
+    - body
+    - 766
+    - 927
+  label: 磁朱七味都氣丸方治驗案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep075_jc_001-d3d4
+    span:
+    - body
+    - 927
+    - 1041
+  label: 菟絲煎方治驗案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep075_jc_001-d3d5
+    span:
+    - body
+    - 1041
+    - 1226
+  label: 六味加柴黃甘草飲方治驗案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep075_jc_001-d3d6
+    span:
+    - body
+    - 1226
+    - 1321
+  label: 六味合生脈黃耆飲方治驗案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep075_jc_001-d3d7
+    span:
+    - body
+    - 1321
+    - 1449
+  label: 六味智荷飲方治驗案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep075_jc_001-d3d8
+    span:
+    - body
+    - 1449
+    - 1895
+  label: 千金散方治驗案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep075_jc_001-d3d9
+    span:
+    - body
+    - 1895
+    - 2248
+  label: 涼膈加石膏等方治驗案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep075_jc_001-d3d10
+    span:
+    - body
+    - 2248
+    - 2552
+  label: 抱桐年丈金液代刀散方論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep075_jc_001-d3d11
+    span:
+    - body
+    - 2552
+    - 2609
+  label: 記烏鹿正陽丹方
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep075_jc_001-d3d12
+    span:
+    - body
+    - 2609
+    - 2690
+  label: 記霞天聚聖丹方
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep075_jc_001-d3d13
+    span:
+    - body
+    - 2690
+    - 2982
+  label: 檳蘇順氣飲方論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep075_jc_001-d3d14
+    span:
+    - body
+    - 2982
+    - 3191
+  label: 赤檉甘露飲方論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep075_jc_001-d3d15
+    span:
+    - body
+    - 3191
+    - 3492
+  label: 六味加柴甘等方治驗案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep075_jc_001-d3d16
+    span:
+    - body
+    - 3492
+    - 3876
+  label: 桂枝湯加味治驗案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep075_jc_001-d3d17
+    span:
+    - body
+    - 3876
+    - 4331
+  label: 甘麥大棗湯加味治驗案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep075_jc_001-d3d18
+    span:
+    - body
+    - 4331
+    - 4686
+  label: 伏龍肝飲等治驗案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep075_jc_001-d3d19
+    span:
+    - body
+    - 4686
+    - 4773
+  label: 六味加骨碎補川斛方治驗案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep075_jc_001-d3d20
+    span:
+    - body
+    - 4773
+    - 5093
+  label: 華亭王甥暑症治驗案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep075_jc_001-d3d21
+    span:
+    - body
+    - 5093
+    - 5380
+  label: 補中益氣變方論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep075_jc_001-d3d22
+    span:
+    - body
+    - 5380
+    - 5649
+  label: 記程亦曾乃郎不治案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep075_jc_001-d3d23
+    span:
+    - body
+    - 5649
+    - 5933
+  label: 宋廷良母夫人頭風治驗案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep075_jc_001-d3d24
+    span:
+    - body
+    - 5933
+    - 6109
+  label: 記餘二便濁症治驗案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep075_jc_001-d3d25
+    span:
+    - body
+    - 6109
+    - 6306
+  label: 記沈佐周室肝火沖膈症治驗案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep075_jc_001-d3d26
+    span:
+    - body
+    - 6306
+    - 6550
+  label: 記瑤琴婢目赤治驗案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep075_jc_001-d3d27
+    span:
+    - body
+    - 6550
+    - 6691
+  label: 記李八妻奇疾治驗案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep075_jc_001-d3d28
+    span:
+    - body
+    - 6691
+    - 7089
+  label: 記金志成風痱驗案附李嫗案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep075_jc_001-d3d29
+    span:
+    - body
+    - 7089
+    - 7523
+  label: 四五培元粉方論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep075_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 6771
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ep075_jc_003-d4d2
+    span:
+    - body
+    - 2
+    - 222
+  label: 魚菟固精丸方論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep075_jc_003-d4d3
+    span:
+    - body
+    - 222
+    - 468
+  label: 四製半夏丸方論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep075_jc_003-d4d4
+    span:
+    - body
+    - 468
+    - 604
+  label: 益胃丸方論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep075_jc_003-d4d5
+    span:
+    - body
+    - 604
+    - 885
+  label: 加減坎炁丹方論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep075_jc_003-d4d6
+    span:
+    - body
+    - 885
+    - 967
+  label: 白霞丹方論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep075_jc_003-d4d7
+    span:
+    - body
+    - 967
+    - 1232
+  label: 補天丸方論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep075_jc_003-d4d8
+    span:
+    - body
+    - 1232
+    - 1361
+  label: 烏骨雞丸方論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep075_jc_003-d4d9
+    span:
+    - body
+    - 1361
+    - 2450
+  label: 記江景賢九令愛久病治驗案
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep075_jc_003-d4d10
+    span:
+    - body
+    - 2450
+    - 2907
+  label: 論顧寶善脅痛發黃之症
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep075_jc_003-d4d11
+    span:
+    - body
+    - 2907
+    - 3099
+  label: 記張嫗瘧疾腸風奇疾治驗案
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep075_jc_003-d4d12
+    span:
+    - body
+    - 3099
+    - 4206
+  label: 論治天行喉痹方
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep075_jc_003-d4d13
+    span:
+    - body
+    - 4206
+    - 4261
+  label: 記江景賢足疾治驗案
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep075_jc_003-d4d14
+    span:
+    - body
+    - 4261
+    - 5177
+  label: 記方姓等驗案七則
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep075_jc_003-d4d15
+    span:
+    - body
+    - 5177
+    - 5441
+  label: 贊化丹種子方論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep075_jc_003-d4d16
+    span:
+    - body
+    - 5441
+    - 6644
+  label: 雜記李姓等治驗方案
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep075_jc_003-d4d17
+    span:
+    - body
+    - 6644
+    - 6771
+  label: 附調經種子保胎神效方
+  type: section
+  level: 2
+hash: sha256:55b06e83aa6d5c4a6620b9f778c639f262f8c6a2f97d8c08db887c133292a102
