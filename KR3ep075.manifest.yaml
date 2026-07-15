@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ep075/v1
 canonical_location: https://kanripo.org/bkk/KR3ep075/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 松心醫案筆記
   identifiers:
@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ep075_000.yaml, hash: 'sha256:98864f312768ac62634517dc8773c26377bc4268eda335b6d94e6c28abb7169c'}
-  - {seq: 1, filename: KR3ep075_001.yaml, hash: 'sha256:ead19e87f2c16a6a6a1d7be92d39054fae85f53450854ed5540d0b1a52786cf7'}
-  - {seq: 3, filename: KR3ep075_003.yaml, hash: 'sha256:68c9015b7c7adb0efdb356ab4619fc4c48b0c3ab3cced620c764df4313c74241'}
+  - {seq: 0, filename: KR3ep075_000.yaml, hash: 'sha256:0914019c1d9116aa3ff89d4a9cb0044fcba447b12d7906421c9cb0258a313457'}
+  - {seq: 1, filename: KR3ep075_001.yaml, hash: 'sha256:8c4562df27c203766f0f4971b1d99712654713819e4b51632f1f7fe954a93d72'}
+  - {seq: 3, filename: KR3ep075_003.yaml, hash: 'sha256:bcb5b934ece8c3923d6932010cf3898e53285041f7ea7417d32d68f6c8677441'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep075_000.markers.yaml, hash: 'sha256:a89e8175234b4410862aa2c19f4d6f4b7d090acdf6ad94cb0dd3a36b89e67ae1'}
-  - {seq: 1, role: markers, filename: assets/KR3ep075_001.markers.yaml, hash: 'sha256:163e2649e79355280344ffff09474c1a0568095057cf8dd5eeeb8856c1906e01'}
-  - {seq: 3, role: markers, filename: assets/KR3ep075_003.markers.yaml, hash: 'sha256:ac1060ba85dca8d635c142b4a496033993a5f0a13eb936d54c169ef14915d9fc'}
+  - {seq: 0, role: markers, filename: assets/KR3ep075_000.markers.yaml, hash: 'sha256:260e5814192fdb2241794ede117269ed4fdd333d8b5b609818fcf7449d7ef82e'}
+  - {seq: 1, role: markers, filename: assets/KR3ep075_001.markers.yaml, hash: 'sha256:2d142dcf337af847b37517fd6840766d0192c4be9e977ed9ab3b7bef7f4e27fe'}
+  - {seq: 3, role: markers, filename: assets/KR3ep075_003.markers.yaml, hash: 'sha256:f685a2da5a95559c5a0aa706f4b8833fb0aa11f71a4dfdbc08bf8b1cb9dced43'}
 table_of_contents:
 - ref:
     seq: 0
@@ -495,4 +495,7 @@ table_of_contents:
   label: 附調經種子保胎神效方
   type: section
   level: 2
-hash: sha256:825d9dc84b2c042bcfb31dd42af9ec5b1d06942e1be5e3d5f7adbbf06b8e86bb
+hash: sha256:96cf864c3842588e2b26605ad46c77637375951785bc3863ade14ea47ffd2c9a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
