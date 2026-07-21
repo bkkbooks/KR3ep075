@@ -17,11 +17,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ep075_000.yaml, hash: 'sha256:0914019c1d9116aa3ff89d4a9cb0044fcba447b12d7906421c9cb0258a313457'}
+  - {seq: 0, filename: KR3ep075_000.yaml, hash: 'sha256:fca2a981a9003d9d51b512a8c158ceffecc0bbea53128149b6e7cf4b8a0f0012'}
   - {seq: 1, filename: KR3ep075_001.yaml, hash: 'sha256:8c4562df27c203766f0f4971b1d99712654713819e4b51632f1f7fe954a93d72'}
   - {seq: 3, filename: KR3ep075_003.yaml, hash: 'sha256:bcb5b934ece8c3923d6932010cf3898e53285041f7ea7417d32d68f6c8677441'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep075_000.markers.yaml, hash: 'sha256:260e5814192fdb2241794ede117269ed4fdd333d8b5b609818fcf7449d7ef82e'}
+  - {seq: 0, role: markers, filename: assets/KR3ep075_000.markers.yaml, hash: 'sha256:4df4ddff94edc64b6ddc52324f3558a3f14b3674aa4e2a7acf1f498f8209201b'}
   - {seq: 1, role: markers, filename: assets/KR3ep075_001.markers.yaml, hash: 'sha256:ade26ce2f1640957208e98cf76ea086f5226af5bc3a7de8847dd187edd23cf79'}
   - {seq: 3, role: markers, filename: assets/KR3ep075_003.markers.yaml, hash: 'sha256:35fc1ff9443325e7ebd6c346d7a7298bb513c8402d81003cd4ba0d1295ab0222'}
 table_of_contents:
@@ -29,7 +29,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ep075_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 379
   label: 序
@@ -495,7 +495,7 @@ table_of_contents:
   label: 附調經種子保胎神效方
   type: section
   level: 2
-hash: sha256:c672315d2c282d5df153d967282136fbdefbaf1b3b60c72c16646e701b17880e
+hash: sha256:7c4250a714a0e512e7b89684bd571c8a99f6073991b0e81c02ae823149d034db
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
